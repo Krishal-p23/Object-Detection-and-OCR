@@ -1,0 +1,102 @@
+[
+  {
+    "text": "n addition,I have attended and delivered paper",
+    "confidence": 0.9366,
+    "bounding_box": [
+      0,
+      0,
+      690,
+      23
+    ]
+  },
+  {
+    "text": "ational conferences in the United Kingdom, the",
+    "confidence": 0.9512,
+    "bounding_box": [
+      0,
+      23,
+      685,
+      49
+    ]
+  },
+  {
+    "text": "Canada, Australia, New Zealand,Papua New Guinea",
+    "confidence": 0.921,
+    "bounding_box": [
+      0,
+      51,
+      690,
+      78
+    ]
+  },
+  {
+    "text": "frica,Malawi, India and Angola.I have also,",
+    "confidence": 0.952,
+    "bounding_box": [
+      0,
+      79,
+      688,
+      107
+    ]
+  },
+  {
+    "text": "elivered lectures and conducted seminars at th",
+    "confidence": 0.9784,
+    "bounding_box": [
+      0,
+      107,
+      690,
+      133
+    ]
+  },
+  {
+    "text": "Department of Biological Anthropology, Departm",
+    "confidence": 0.9533,
+    "bounding_box": [
+      0,
+      136,
+      690,
+      162
+    ]
+  },
+  {
+    "text": "pon-Tyne (Department of Human Genetics)and Dw",
+    "confidence": 0.9268,
+    "bounding_box": [
+      0,
+      164,
+      691,
+      189
+    ]
+  },
+  {
+    "text": "in England, of cape Town and the Witwatersrand",
+    "confidence": 0.9328,
+    "bounding_box": [
+      0,
+      191,
+      690,
+      218
+    ]
+  },
+  {
+    "text": "niversiteit (in Afrikaans) in South Africa, th",
+    "confidence": 0.9256,
+    "bounding_box": [
+      0,
+      217,
+      690,
+      246
+    ]
+  },
+  {
+    "text": "Department of Human Biology, Department of Ant",
+    "confidence": 0.9589,
+    "bounding_box": [
+      3,
+      248,
+      691,
+      269
+    ]
+  }
+]
